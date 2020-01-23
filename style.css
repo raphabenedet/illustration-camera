@@ -1,0 +1,102 @@
+body {
+    background-color: #ace5ee;
+}
+
+#box {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(243, 191, 94);
+    box-shadow: 4px 4px 4px gray;
+    border-radius: 25px;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+}
+
+#flash {
+    width: 50px;
+    height: 25px;
+    border: solid 6px #67167b;
+    border-radius: 10px 10px 0px 0px;
+    position: relative;
+    top: 103px;
+    left: 220px;
+    background-color: #95ccc5;
+}
+
+#btn {
+    width: 25px;
+    height: 15px;
+    /* border: solid 3px black; */
+    background-color: #67167b;
+    border-radius: 5px 5px 0px 0px;
+    position: relative;
+    top: 85px;
+    left: 130px;
+}
+
+#caixa_principal {
+    width: 300px;
+    height: 220px;
+    border: solid 6px  #67167b;
+    background-color: #95ccc5;
+    position: relative;
+    left: 100px;
+    top: 82px;
+    border-radius: 10px;
+}
+
+#lente {
+    width: 160px;
+    height: 160px;
+    border: solid 6px  #67167b;
+    background-color: #a971ab;
+    border-radius: 100px;
+    position: relative;
+    float: right;
+    right: 25px;
+    bottom: 90px;    
+}
+
+#lente_menor {
+    width: 100px;
+    height: 100px;
+    border: solid 6px  #67167b;
+    background-color: #cee9ed;
+    border-radius: 80px;
+    position: relative;
+    float: right;
+    right: 25px;
+    top: 25px;    
+}
+
+#reflexo {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 30px;
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
+
+#obs {
+    width: 30px;
+    height: 15px;
+    border: solid 6px  #67167b;
+    border-radius: 8px;
+    background-color: #cee9ed;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+#faixa {
+    width: 300px;
+    height: 80px;
+    border: solid 6px #67167b;
+    background-color: #8d76ae;
+    position: relative;
+    top: 35px;
+    right: 6px;
+}
